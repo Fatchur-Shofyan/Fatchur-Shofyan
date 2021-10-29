@@ -6,9 +6,8 @@
 - 💞️ I’m looking to collaborate with other content creators
 
 ### Connect with me:
+![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=Fatchur-Shofyan)
 ![](https://komarev.com/ghpvc/?username=Fatchur-Shofyan)
-![counter](https://en5twgxls9jt8q6.m.pipedream.net)
-[<img align="left" alt="devfian" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="devfian | LinkedIn" src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=linkedin" />][linkedin]
 [<img align="left" alt="devfian | Instagram" src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram" />][instagram]
 
