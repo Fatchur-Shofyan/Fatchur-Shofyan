@@ -6,11 +6,11 @@
 - 💞️ I’m looking to collaborate with other content creators
 
 ### Connect with me:
+![](https://komarev.com/ghpvc/?username=Fatchur-Shofyan)
 ![counter](https://en5twgxls9jt8q6.m.pipedream.net)
 [<img align="left" alt="devfian" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="devfian | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="devfian | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+[<img align="left" alt="devfian | LinkedIn" src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=linkedin" />][linkedin]
+[<img align="left" alt="devfian | Instagram" src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram" />][instagram]
 
 <br />
 
