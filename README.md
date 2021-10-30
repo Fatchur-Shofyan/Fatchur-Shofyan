@@ -5,15 +5,12 @@
 - 🌱 I’m currently learning everything 🤣
 - 💞️ I’m looking to collaborate with other content creators
 
-### Connect with me:
-[<img align="left" alt="devfian | Instagram" src="https://img.shields.io/badge/Instagram-e83e80?style=for-the-badge&logo=instagram&logoColor=FFFFFF" />][instagram]
-[<img align="left" alt="devfian | LinkedIn" src="https://img.shields.io/badge/Instagram-0976b4?style=for-the-badge&logo=linkedin" />][linkedin]
+### Connect with me: 🤝
 ![V](https://shields-io-visitor-counter.herokuapp.com/badge?page=Fatchur-Shofyan&label=Visitor&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge)
+[<img align="left" alt="devfian | LinkedIn" src="https://img.shields.io/badge/Fatchur Shofyan-0976b4?style=for-the-badge&logo=linkedin" />][linkedin]
+[<img align="left" alt="devfian | Instagram" src="https://img.shields.io/badge/Fatchur Shofyan-e83e80?style=for-the-badge&logo=instagram&logoColor=FFFFFF" />][instagram]
 
-<br />
-
-### Languages and Tools:
-
+### Languages and Tools : 🛠
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
@@ -28,8 +25,6 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/navicat/navicat.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/filezilla/filezilla.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 
