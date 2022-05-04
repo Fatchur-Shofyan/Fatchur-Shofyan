@@ -1,6 +1,7 @@
-### Hi 👋 My name is Fatchur Shofyan
-
-## I'm a Developer, Gamer, and Student!
+Hi 👋 My name is Fatchur Shofyan 
+================================  
+I'm a Developer, Gamer, and Student! 
+------------------------------------
 - 👨‍💻 I'm currently working on PT. 3 Consulting Services and open for freelance
 - 🌱 I’m currently learning everything 🤣
 - 💞️ I’m looking to collaborate with other content creators  
